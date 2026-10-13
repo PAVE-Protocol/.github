@@ -1,28 +1,19 @@
 # PAVE
 
-AI systems are moving from helping people make decisions to making decisions and taking actions on behalf of people and organizations.
+![FRUIT × PAVE](https://raw.githubusercontent.com/PAVE-Protocol/.github/main/assets/pave-brand.png)
 
-PAVE gives those systems a way to call on human judgment and authority when needed.
+PAVE is a protocol for making human judgment callable by AI agents. It is proprietary technology developed by [FRUIT](https://byfruit.io) and provides the protocol behind [Callable Human Judgment](https://byfruit.io/what-is-callable-human-judgment/).
 
-It is being developed around a simple idea: removing a person from every moment of execution should not require removing the judgment, authority, attribution or provenance they contributed.
+PAVE's architecture and foundational capabilities are established. FRUIT continues advancing implementations and integrations. Organizations can engage FRUIT for evaluation, integration, and licensing; supported capabilities, deployment arrangements, and validation requirements are determined for each engagement.
 
-FRUIT calls the broader concept [Callable Human Judgment](https://byfruit.io/what-is-callable-human-judgment/). It is human-derived judgment represented so a system can request its application when needed. PAVE is the first system we're building around that idea.
+## Explore PAVE
 
-PAVE is developed by [FRUIT](https://byfruit.io).
+- **[Public documentation](https://github.com/PAVE-Protocol/spec):** Protocol architecture, terminology, illustrative applications, access, and licensing. The public materials are not a complete implementation specification. PAVE is not open source.
+- **PAVE Core:** Defines and processes judgment representations, including Registry and Runtime responsibilities. Its engineering repository is private.
+- **PAVE Agent:** Connects external workflows to PAVE Core through interfaces and orchestration. Its engineering repository is private.
 
-## What's here
+Permission to consult human judgment is distinct from authority to act. Contributor rights are separate from ownership of PAVE intellectual property. The documentation's illustrative applications do not establish deployed implementations or validated outcomes.
 
-### PAVE Specification
+Invented by [Angela Benton](https://angelabenton.com). Developed by [FRUIT](https://byfruit.io). PAVE intellectual property is owned by **FRUIT Holdings, Inc.**
 
-The [spec repository](https://github.com/PAVE-Protocol/spec) contains PAVE's public technical overview, specification status and public materials license.
-
-### PAVE Core
-
-PAVE Core is the proprietary implementation of the protocol. Its engineering repository is private.
-
-### PAVE Agent
-
-PAVE Agent provides the interface between agentic systems and PAVE. Its engineering repository is private.
-
-PAVE is under active development. Public technical materials describe the system's architecture, boundaries and intended operation. They should not be read as announcements that every described capability is publicly available or production-ready.
-
+To discuss evaluation, integration, or licensing, contact [hello@byfruit.io](mailto:hello@byfruit.io).
